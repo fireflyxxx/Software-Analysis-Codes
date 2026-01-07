@@ -1,0 +1,215 @@
+D:\software\python310\python.exe "D:/software/PyCharm 2023.3.5/plugins/python/helpers/pycharm/_jb_unittest_runner.py" --path D:\workspace\python\test\test.py 
+Testing started at 19:15 ...
+Launching unittests with arguments python -m unittest D:\workspace\python\test\test.py in D:\workspace\python\test
+
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=0, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1462, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=395, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=395, quantity=8)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=456, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=456, quantity=2),
+     CartItem(name='Item', price=1817, quantity=7),
+     CartItem(name='Item', price=95, quantity=8)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1412, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1412, quantity=6),
+     CartItem(name='Item', price=136, quantity=3)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1550, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1550, quantity=3),
+     CartItem(name='Item', price=1308, quantity=5)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=491, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1188, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1485, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1485, quantity=8),
+     CartItem(name='Item', price=1024, quantity=2),
+     CartItem(name='Item', price=460, quantity=8)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1485, quantity=8),
+     CartItem(name='Item', price=1024, quantity=2),
+     CartItem(name='Item', price=1024, quantity=2)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1485, quantity=8),
+     CartItem(name='Item', price=1024, quantity=2),
+     CartItem(name='Item', price=1024, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1485, quantity=2),
+     CartItem(name='Item', price=1024, quantity=2),
+     CartItem(name='Item', price=1024, quantity=2)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1485, quantity=2),
+     CartItem(name='Item', price=2, quantity=2),
+     CartItem(name='Item', price=1024, quantity=2)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=284, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=0, quantity=4)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1327, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1973, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1973, quantity=5),
+     CartItem(name='Item', price=1932, quantity=7)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1932, quantity=7),
+     CartItem(name='Item', price=1932, quantity=7)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1932, quantity=7),
+     CartItem(name='Item', price=7, quantity=7)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=7, quantity=7),
+     CartItem(name='Item', price=7, quantity=7)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=0, quantity=7)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=533, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1999, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=233, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=233, quantity=9)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=9, quantity=9)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=146, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1466, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1466, quantity=8)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=8, quantity=8)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=781, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1943, quantity=1)],
+)
+Trying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1943, quantity=7),
+     CartItem(name='Item', price=0, quantity=3),
+     CartItem(name='Item', price=1580, quantity=5)],
+)
+Traceback (most recent call last):
+  File "D:\workspace\python\test\test.py", line 61, in test_cart_calculation
+    calculate_total(items)
+  File "D:\workspace\python\test\test.py", line 33, in calculate_total
+    raise ValueError("CRITICAL_BUG: High value cart cannot handle free gifts!")
+ValueError: CRITICAL_BUG: High value cart cannot handle free gifts!
+
+
+Error
+Traceback (most recent call last):
+  File "D:\workspace\python\test\test.py", line 53, in test_cart_calculation
+    @given(st.lists(item_strategy, min_size=1))
+  File "D:\software\python310\lib\site-packages\hypothesis\core.py", line 2234, in wrapped_test
+    raise the_error_hypothesis_found
+  File "D:\workspace\python\test\test.py", line 61, in test_cart_calculation
+    calculate_total(items)
+  File "D:\workspace\python\test\test.py", line 33, in calculate_total
+    raise ValueError("CRITICAL_BUG: High value cart cannot handle free gifts!")
+ValueError: CRITICAL_BUG: High value cart cannot handle free gifts!
+Falsifying example: test_cart_calculation(
+    self=<test.TestShoppingCart testMethod=test_cart_calculation>,
+    items=[CartItem(name='Item', price=1943, quantity=7),
+     CartItem(name='Item', price=0, quantity=3),
+     CartItem(name='Item', price=1580, quantity=5)],
+)
+
+You can reproduce this example by temporarily adding @reproduce_failure('6.148.11', b'AAFCB5dBBwFBAEEDAUIGLEEFAA==') as a decorator on your test case
+
+
+
+Ran 1 test in 0.126s
+
+FAILED (errors=1)
+
+Process finished with exit code 1
